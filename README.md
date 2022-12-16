@@ -25,7 +25,7 @@ preview -
 
 ![todo output](https://user-images.githubusercontent.com/107612618/205501334-349d7107-e78c-4667-9f30-3c5415693cbd.png)
 
- will be deploy soon!!
+ 
 
 
 
